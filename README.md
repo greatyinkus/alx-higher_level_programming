@@ -1,2 +1,1 @@
-alx-higher_level_programming
-PYTHON
+# Solutions to tasks on More Data structures
